@@ -1,0 +1,95 @@
+﻿.custom-p {
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #000000;
+    text-align: justify;
+    line-height: 32px;
+}
+
+.heading-text {
+    color: #d8000f;
+    font-family: 微软雅黑;
+}
+
+.text-red {
+}
+
+.footer-text {
+    font-family: "微软雅黑";
+    color: #FFFFFF;
+}
+
+.bg-red {
+    background-color: #d8000f;
+}
+
+.custom-font {
+    font-family: "微软雅黑";
+}
+
+.background-none {
+    background: none !important;
+}
+
+.border-bottom-red {
+    font-weight: bold;
+    border-bottom: 3px solid #d80413;
+}
+
+.left-nav-header {
+    font-family: 微软雅黑;
+    background-color: #d8000f;
+    color: #FFFFFF;
+    font-size: 25px;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.left-nav-body {
+    background: #d8000f url(../Dw/underline.gif) repeat-x left top;
+}
+
+    .left-nav-body ul {
+        margin: 0;
+        padding: 0;
+    }
+
+
+    .left-nav-body li {
+        list-style-type: none;
+        line-height: 70px;
+    }
+
+        .left-nav-body li a {
+            display: block;
+            background: url(../Dw/underline.gif) repeat-x left bottom;
+            padding-left: 30px;
+            font-family: "微软雅黑";
+            font-size: 20px;
+            color: #FFFFFF;
+        }
+
+.left-nav-footer {
+    background-color: #d8000f;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    height: 15px;
+}
+
+.related-product-size {
+    height: 157px;
+    width: 262px;
+}
+
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+.goog-te-gadget-icon {
+    display: none !important;
+}
